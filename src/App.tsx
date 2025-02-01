@@ -111,7 +111,7 @@ function App() {
               <Brain className="w-6 h-6 text-purple-400" />
               <span className="text-white font-medium">NOVA AI</span>
             </div>
-            <p className="text-gray-400">© 2024 NOVA AI. All rights reserved.</p>
+            <p className="text-gray-400">© 2024 lklkk AI. All rights reserved.</p>
           </div>
         </div>
       </footer>
